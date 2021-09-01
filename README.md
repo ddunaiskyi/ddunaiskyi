@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Danyil
+- I’m Ruby on Rails developer😎
